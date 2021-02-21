@@ -1,0 +1,1 @@
+Olha o site pegando o texto via fetch
